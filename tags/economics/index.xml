@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economics on Marcus Alexander</title>
+    <link>https://mqdicer.github.io/tags/economics/</link>
+    <description>Recent content in Economics on Marcus Alexander</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Marcus Alexander, 2018</copyright>
+    <lastBuildDate>Sun, 09 Jan 2011 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://mqdicer.github.io/tags/economics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quantifying the Impact of Economic Crises on Infant Mortality in Advanced Economies</title>
+      <link>https://mqdicer.github.io/publication/crises_and_infant_mortality/</link>
+      <pubDate>Sun, 09 Jan 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://mqdicer.github.io/publication/crises_and_infant_mortality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantile Regression for Time-Series-Cross-Section Data</title>
+      <link>https://mqdicer.github.io/publication/quantile_regression/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://mqdicer.github.io/publication/quantile_regression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

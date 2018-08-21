@@ -12,14 +12,6 @@
     
     <url>
     
-      <loc>https://mqdicer.github.io/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://mqdicer.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
@@ -28,7 +20,7 @@
     
     <url>
     
-      <loc>https://mqdicer.github.io/publication/</loc>
+      <loc>https://mqdicer.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -36,7 +28,7 @@
     
     <url>
     
-      <loc>https://mqdicer.github.io/talk/</loc>
+      <loc>https://mqdicer.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -60,14 +52,6 @@
     
     <url>
     
-      <loc>https://mqdicer.github.io/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://mqdicer.github.io/publication/context_modularity_of_altruism/</loc>
       <lastmod>2011-12-09T00:00:00-05:00</lastmod>
     </url>
@@ -76,17 +60,32 @@
     
     <url>
     
-      <loc>https://mqdicer.github.io/publication_types/2/</loc>
-      <lastmod>2011-12-09T00:00:00-05:00</lastmod>
-      <priority>0</priority>
+      <loc>https://mqdicer.github.io/publication/bias_and_asymmetric_loss/</loc>
+      <lastmod>2011-07-27T00:00:00-04:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://mqdicer.github.io/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
+      <loc>https://mqdicer.github.io/publication/crises_and_infant_mortality/</loc>
+      <lastmod>2011-01-09T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mqdicer.github.io/publication/quantile_regression/</loc>
+      <lastmod>2011-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mqdicer.github.io/publication_types/2/</loc>
+      <lastmod>2011-12-09T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -113,6 +112,24 @@
     
       <loc>https://mqdicer.github.io/tags/cooperation/</loc>
       <lastmod>2011-12-09T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mqdicer.github.io/tags/data-science/</loc>
+      <lastmod>2011-07-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mqdicer.github.io/tags/economics/</loc>
+      <lastmod>2011-01-09T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -147,8 +164,44 @@
     
     <url>
     
+      <loc>https://mqdicer.github.io/tags/health/</loc>
+      <lastmod>2011-07-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mqdicer.github.io/tags/infant-mortality/</loc>
+      <lastmod>2011-01-09T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mqdicer.github.io/tags/instrumental-variables/</loc>
+      <lastmod>2011-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://mqdicer.github.io/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mqdicer.github.io/tags/medicine/</loc>
+      <lastmod>2011-07-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -183,6 +236,15 @@
     
     <url>
     
+      <loc>https://mqdicer.github.io/tags/quantile-regression/</loc>
+      <lastmod>2011-01-09T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://mqdicer.github.io/tags/social-networks/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -202,7 +264,7 @@
     <url>
     
       <loc>https://mqdicer.github.io/tags/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
+      <lastmod>2011-12-09T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

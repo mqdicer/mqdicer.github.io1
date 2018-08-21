@@ -13,15 +13,6 @@
     
     
     <item>
-      <title></title>
-      <link>https://mqdicer.github.io/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://mqdicer.github.io/home/hero_carousel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Human Nature Lab</title>
       <link>https://mqdicer.github.io/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
@@ -46,15 +37,6 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://mqdicer.github.io/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://mqdicer.github.io/home/skills/</link>
-      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://mqdicer.github.io/home/skills/</guid>
       <description></description>
     </item>
     
@@ -86,15 +68,6 @@
     </item>
     
     <item>
-      <title>Recent Posts</title>
-      <link>https://mqdicer.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://mqdicer.github.io/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Selected Publications</title>
       <link>https://mqdicer.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
@@ -104,14 +77,13 @@
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>https://mqdicer.github.io/home/teaching/</link>
+      <title>Students</title>
+      <link>https://mqdicer.github.io/home/students/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://mqdicer.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+      <guid>https://mqdicer.github.io/home/students/</guid>
+      <description>Our Human Nature Lab does interdisciplinary work and welcomes undergraduate and graduate students across all physical and life science fields, as well as engineering, computer science, and math. Our PI, Professor Nicholas A. Christakis, holds appointments in EEB, BME, S&amp;amp;DS, Sociology, and Medicine, so any graduate students in search of a lab to join are especially welcome to come and check out our work.
+Graduate and Undergraduate Research Assistant positions are available both during school year and over the summer.</description>
     </item>
     
     <item>

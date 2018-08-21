@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Marcus Alexander, 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 09 Dec 2011 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://mqdicer.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Academic</title>
-      <link>https://mqdicer.github.io/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://mqdicer.github.io/tags/academic/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Behavioral economics</title>
@@ -36,6 +27,24 @@
       <pubDate>Fri, 09 Dec 2011 00:00:00 -0500</pubDate>
       
       <guid>https://mqdicer.github.io/tags/cooperation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data science</title>
+      <link>https://mqdicer.github.io/tags/data-science/</link>
+      <pubDate>Wed, 27 Jul 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://mqdicer.github.io/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economics</title>
+      <link>https://mqdicer.github.io/tags/economics/</link>
+      <pubDate>Sun, 09 Jan 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://mqdicer.github.io/tags/economics/</guid>
       <description></description>
     </item>
     
@@ -67,11 +76,56 @@
     </item>
     
     <item>
+      <title>Health</title>
+      <link>https://mqdicer.github.io/tags/health/</link>
+      <pubDate>Wed, 27 Jul 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://mqdicer.github.io/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infant mortality</title>
+      <link>https://mqdicer.github.io/tags/infant-mortality/</link>
+      <pubDate>Sun, 09 Jan 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://mqdicer.github.io/tags/infant-mortality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instrumental variables</title>
+      <link>https://mqdicer.github.io/tags/instrumental-variables/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://mqdicer.github.io/tags/instrumental-variables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medicine</title>
+      <link>https://mqdicer.github.io/tags/medicine/</link>
+      <pubDate>Wed, 27 Jul 2011 00:00:00 -0400</pubDate>
+      
+      <guid>https://mqdicer.github.io/tags/medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Microbiome</title>
       <link>https://mqdicer.github.io/tags/microbiome/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://mqdicer.github.io/tags/microbiome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantile regression</title>
+      <link>https://mqdicer.github.io/tags/quantile-regression/</link>
+      <pubDate>Sun, 09 Jan 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://mqdicer.github.io/tags/quantile-regression/</guid>
       <description></description>
     </item>
     
